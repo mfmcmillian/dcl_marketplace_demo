@@ -21,8 +21,9 @@ Follow these steps to set up and run the automation script:
 
 You can install Robot Framework using pip:
 
-````bash
+```bash
 pip install robotframework
+```
 
 ### **Step 2: Installing ChromeDriver**
 
@@ -41,6 +42,7 @@ pip install robotframework
 
    ```bash
    git clone https://github.com/your-username/marketplace-automation.git
+   ```
 
 ### **Step 5: Running the Script**
 
@@ -50,15 +52,10 @@ pip install robotframework
 
    ```bash
    cd /path/to/your/marketplace-automation
+   ```
 
 3. Run the Robot Framework script:
 
    ```bash
    robot marketplace_automation.robot
-
-
-
-
-
-
-````
+   ```
