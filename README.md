@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a Robot Framework script that automates a series of actions on a marketplace website. The script navigates to your collection, searches for the Antrom collection, and logs the number of available Antrom wearables.
+This repository contains a Robot Framework script that automates a series of actions on a the Decentraland marketplace. The script navigates to your collection, searches for the Antrom collection, and logs the number of available Antrom wearables.
 
 ## Prerequisites
 
@@ -40,9 +40,9 @@ pip install robotframework
 
 1. Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/your-username/marketplace-automation.git
-   ```
+```bash
+git clone https://github.com/mfmcmillian/marketplace-automation.git
+```
 
 ### **Step 5: Running the Script**
 
@@ -50,12 +50,12 @@ pip install robotframework
 
 2. Navigate to the project directory:
 
-   ```bash
-   cd /path/to/your/marketplace-automation
-   ```
+```bash
+cd /path/to/your/marketplace-automation
+```
 
 3. Run the Robot Framework script:
 
-   ```bash
-   robot marketplace_automation.robot
-   ```
+```bash
+robot marketplace_automation.robot
+```
